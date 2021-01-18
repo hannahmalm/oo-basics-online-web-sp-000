@@ -17,11 +17,12 @@ Book
   end 
    
   def page_count =(num)
-    @page_count = num 
+      @page_count = num 
     def page_count
-    @page_count
-  end
+      @page_count
+    end
   end 
+  
 end   
   
   
