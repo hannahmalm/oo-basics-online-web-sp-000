@@ -45,8 +45,8 @@ class Shoe
   
   
   
-  def turn_page
-    puts "Flipping the page...wow, you read fast!"
+  def cobble
+    puts "The shoe has been repaired"
   end 
 
 end
