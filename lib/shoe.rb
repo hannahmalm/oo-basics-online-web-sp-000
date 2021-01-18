@@ -46,7 +46,7 @@ class Shoe
   
   
   def cobble
-    puts "The shoe has been repaired"
+    puts "Your shoe is as good as new!"
   end 
 
 end
